@@ -23,15 +23,27 @@ You don't need to be an expert to contribute. You can share resources, improve d
 
 ## How to contribute
 
-1. Explore the repository.
-2. Check open issues.
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
+2. Explore the [open issues](https://github.com/synckerz/openforge/issues).
 3. Find something you would like to improve.
 4. Fork the project and submit a pull request.
 
 All contributions are welcome!
+
+## Project guides
+
+- [Contribution guide](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security policy](SECURITY.md)
+- [Getting help](SUPPORT.md)
+- [Project roadmap](ROADMAP.md)
 
 ## Our goal
 
 To build a community where people don't just learn software development individually, but grow by learning and building together.
 
 **OpenForge is just getting started. Join us and help shape it!**
+
+## License
+
+OpenForge is available under the [MIT License](LICENSE).
