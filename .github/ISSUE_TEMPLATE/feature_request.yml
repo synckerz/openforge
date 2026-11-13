@@ -1,0 +1,29 @@
+name: Idea or feature request
+description: Suggest a resource, learning path, challenge or improvement.
+title: "[Idea]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Ideas from all experience levels are welcome. Tell us who this would help."
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe your idea.
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Who would benefit?
+      description: Beginners, students, professionals or a specific group?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Extra context
+      description: Examples, links or possible approaches.
+    validations:
+      required: false
