@@ -21,6 +21,10 @@ Everyone interested in software development.
 
 You don't need to be an expert to contribute. You can share resources, improve documentation, report issues, suggest ideas or contribute code.
 
+## Learning resources
+
+- [Python learning resources](docs/resources/python.md) — a curated starting point for beginners.
+
 ## How to contribute
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
